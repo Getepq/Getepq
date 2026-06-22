@@ -1,16 +1,18 @@
-## Hi there 👋
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-<!--
-**Getepq/Getepq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий программист.Пишу на: python, rust.
 
-Here are some ideas to get you started:
+### ОБО МНЕ
+* Пишу телеграм ботов на фреймворке aiogram, пишу легкие шуточные проекты по типу ascii-core для того, чтобы прокачать свои навыки в программировнии.
+* Пытаюсь чаще изучать новые фичи в rust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Избранные проекты
+
+* **[ASCII-CORE](https://github.com/Getepq/ascii-core)** — ASCII-CORE — Локальный микросервис для аппаратной генерации ASCII-артов из медиафайлов. Обеспечивает бесперебойную работу благодаря полностью асинхронной сетевой архитектуре на базе tokio + axum и аппаратному ускорению рендеринга на графическом процессоре.
+* 
+---
+
