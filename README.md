@@ -10,6 +10,9 @@
 * Проектирование надежных REST API на **Rust** (crate: `axum`).
 * Разработка телеграм-ботов на **Python** (framework: `aiogram`).
 
+**Libs (Rust)**
+* Разработка библиотек для автоматизации процессов.
+
 **Database (PostgreSQL & SQLite3)**
 * Уверенная работа с реляционными СУБД.
 * Взаимодействие с базами данных через ORM: `SeaORM` для Rust и `SQLAlchemy` для Python.
