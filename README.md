@@ -8,7 +8,7 @@
 
 **Backend (Rust & Python)**
 * Проектирование надежных REST API на **Rust** (crate: `axum`).
-* Разработка Telegram-ботов на **Python** (framework: `aiogram`).
+* Разработка телеграм-ботов на **Python** (framework: `aiogram`).
 
 **Database (PostgreSQL & SQLite3)**
 * Уверенная работа с реляционными СУБД.
