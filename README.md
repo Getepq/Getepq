@@ -20,4 +20,4 @@
 
 ## Контакты
 
-- **Telegram:**  [@veryhighest](https://t.me/youtraped)
+- **Telegram:**  [@youtraped](https://t.me/youtraped)
